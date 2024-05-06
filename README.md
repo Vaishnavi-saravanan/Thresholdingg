@@ -1,4 +1,4 @@
-![327146636-5c95cd81-7b56-4db0-bcaa-45837cb935b5](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/356759ca-776e-4d96-b1b6-3770b6bba5e4)# THRESHOLDING
+# THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -86,13 +86,18 @@ for i in range(0,9):
 
 ### Global Thresholding
 ![327146636-5c95cd81-7b56-4db0-bcaa-45837cb935b5](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/b5314183-a3a0-4842-921c-2c8b12857504)
+
 ![327146636-5c95cd81-7b56-4db0-bcaa-45837cb935b5](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/6c11df02-acfe-4b3e-9475-a0c998470c07)
+
 ![327146760-ad092623-ed88-4235-947a-eaa6e1a42158](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/8e137632-5559-47ee-bdd0-d0f86ddcfbd2)
+
 ![327146760-ad092623-ed88-4235-947a-eaa6e1a42158](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/a0b7795b-bcb6-4d56-ac2a-d1b257af81bc)
+
 ![327146894-f23e3011-40d3-42e3-975c-d9aae46ede44](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/42bc3cb1-4c5e-46a6-977f-ce512eac5a8d)
 
 ### Adaptive Thresholding
 ![327147478-436d3d17-6cca-4b6f-8131-3f483e79b6bc](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/b9a1dcfb-470a-4e18-b3e4-31e78d336494)
+
 ![327147478-436d3d17-6cca-4b6f-8131-3f483e79b6bc](https://github.com/Vaishnavi-saravanan/Thresholdingg/assets/118541897/64196ead-9887-477d-8ad9-4d7bffa6ccf4)
 
 ### Optimum Global Thesholding using Otsu's Method
